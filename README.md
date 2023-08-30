@@ -7,6 +7,6 @@
 
 - ⚡ Fun fact: ...
 -->
-- 🔭 Software engineering student
+- 🔭 I'm a Software engineering student
 - 🌱 I’m currently learning python, OOP, TDD, DevOps
 - 📫 How to reach me: meschinidino@gmail.com
