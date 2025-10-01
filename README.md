@@ -1,13 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Dino 👋
 
-<!--
-**meschinidino/meschinidino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student passionate about **DevOps**, **Python**, and building scalable applications.  
+💡 I enjoy exploring clean code, automation, and modern workflows that bridge development with operations.  
 
+---
 
+## 🚀 What I'm working on
+- 🐍 Improving my Python skills with a focus on **OOP** and **TDD**.  
+- ⚙️ Diving deeper into **DevOps practices**: CI/CD pipelines, containerization, and cloud workflows.  
+- 📚 Building projects that combine **asynchronous servers**, **IPC**, and **distributed systems**.  
 
-- ⚡ Fun fact: ...
--->
-- 🔭 I'm a Software engineering student
-- 🌱 I’m currently learning python, OOP, TDD, DevOps
-- 📫 How to reach me: meschinidino@gmail.com
-- www.dinomeschini.com
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python, Java, JavaScript/TypeScript  
+- **Frameworks & Tools**: Django, Angular, Flask, Celery  
+- **DevOps & Infra**: Docker, RabbitMQ, GitHub Actions, Netlify  
+- **Databases**: MySQL, SQLite  
+
+---
+
+## 📫 Connect with me
+- ✉️ Email: [meschinidino@gmail.com](mailto:meschinidino@gmail.com)  
+- 🌐 Portfolio: [dinomeschini.com](https://www.dinomeschini.com)  
+- 💼 LinkedIn: [linkedin.com/in/dinomeschini](https://www.linkedin.com/in/dinomeschini)  
+- 🐙 GitHub Projects: [@meschinidino](https://github.com/meschinidino)  
