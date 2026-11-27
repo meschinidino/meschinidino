@@ -32,7 +32,7 @@ Recent public work:
 | [intra](https://github.com/meschinidino/intra) | A local-first containment layer in Go. It gives people, services, and robots scoped, expiring access. Default is deny. |
 | [agent-trading](https://github.com/meschinidino/agent-trading) | An AI investing agent demo. You invest with plain language. Specs come first. |
 | [agent-wallet](https://github.com/meschinidino/agent-wallet) | A design brief for API wallets that let AI agents spend safely. |
-| [Oravela](https://oravela.app) | A multi-tenant HR system for leave, vacations, and attendance. Go backend on PostgreSQL. An agent layer runs HR tasks against company policies and approvals. |
+| [Oravela](https://oravela.pages.dev/) | A multi-tenant HR system for leave, vacations, and attendance. Go backend on PostgreSQL. An agent layer runs HR tasks against company policies and approvals. |
 
 **Want this on your team? [dinomeschini.com](https://dinomeschini.com) · [meschinidino@gmail.com](mailto:meschinidino@gmail.com)**
 
