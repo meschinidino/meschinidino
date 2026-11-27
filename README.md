@@ -6,39 +6,21 @@ Computer Engineering at Universidad de Mendoza. I work remote. I hold Italian ci
 
 [Website](https://dinomeschini.com) · [Email](mailto:meschinidino@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dino-meschini/)
 
+**Open to automation and backend roles, remote, based in Argentina. Start here: [dinomeschini.com](https://dinomeschini.com) · [meschinidino@gmail.com](mailto:meschinidino@gmail.com)**
+
 ---
 
-## BC vs AC
+## Now — the agentic era
 
-My work splits into two eras. The split is real. The first era built the base. The second era builds on it.
+This is AC: After Claude. I direct AI agents for a living now.
 
-|  | **BC — Before Claude** | **AC — After Claude** |
-| --- | --- | --- |
-| How I work | I write every line by hand. | I direct AI agents. I write specs, review output, and ship what passes. |
-| Main languages | Python, Java, JavaScript and TypeScript, HTML and CSS | Go and Python for systems. TypeScript for agent tools. Rust and C# when the project needs them. |
-| What I build | Course projects, REST APIs, a task manager, a chess game, full-stack exercises | Agent harnesses, model-steering tools, multi-agent pipelines, agent safety design |
-| Proof | Public repos from 2021 on: Python first, then Java services, then TypeScript apps | Recent public repos below. Each one runs agents or builds tools for them. |
-| Core skill | Read a problem. Write correct code alone. | Break a problem into specs and checks. Run agents against them. Judge the result. |
+I write the spec. Agents write the code. I review the output, run the checks, and ship what passes. The typing got cheap. Judgment did not. That judgment is the product, and this profile is the proof.
 
-### BC — the base
-
-I started in public. My early repos show the path:
-
-- **Python first.** Course work, a chess game, data tools, and a task manager with Docker.
-- **Then Java.** REST APIs, JPA projects, and a large group project (`umbook_grupo6`).
-- **Then the web.** HTML and CSS practice, Angular tests, TypeScript apps, and full-stack exercises.
-
-That base still pays. I read agent output fast because I wrote the same code by hand for years.
-
-### AC — the agentic era
-
-I now spend most of my time on agent systems. I design the work. Agents do the typing. I own the spec, the checks, and the final call.
-
-- **I write specs first.** Recent projects start with specs and gates, not code. Agents build against them.
-- **I run multi-agent flows.** Pipelines pass work from one agent to the next. Each step has a check. A failed check stops the flow.
-- **I build tools for agents.** Harnesses that show what an agent plans, what it writes, and where it stands.
-- **I steer models.** I find neurons and directions inside open models, change behavior, and measure the change.
-- **I guard agent work.** Refusal, honesty, and privacy checks run before a change ships.
+- **Specs first.** My recent projects start with specs and gates, not code. Agents build against them.
+- **Multi-agent flows.** Pipelines pass work from one agent to the next. Each step has a check. A failed check stops the flow.
+- **Tools for agents.** I build harnesses that show what an agent plans, what it writes, and where it stands.
+- **Model steering.** I find neurons and directions inside open models, change behavior, and measure the change.
+- **Guarded work.** Refusal, honesty, and privacy checks run before a change ships.
 
 Recent public work:
 
@@ -50,6 +32,23 @@ Recent public work:
 | [intra](https://github.com/meschinidino/intra) | A local-first containment layer in Go. It gives people, services, and robots scoped, expiring access. Default is deny. |
 | [agent-trading](https://github.com/meschinidino/agent-trading) | An AI investing agent demo. You invest with plain language. Specs come first. |
 | [agent-wallet](https://github.com/meschinidino/agent-wallet) | A design brief for API wallets that let AI agents spend safely. |
+
+**Want this on your team? [dinomeschini.com](https://dinomeschini.com) · [meschinidino@gmail.com](mailto:meschinidino@gmail.com)**
+
+---
+
+## Built on a real base — BC
+
+BC is Before Claude: the years I wrote every line by hand. That base is why the agent work above holds up. I read agent output fast, and I catch its errors, because I wrote the same code alone for years first.
+
+- **Python first.** Course work from 2021 on, a chess game, data tools, and a task manager with Docker.
+- **Then Java.** REST APIs, JPA projects, and a large group project (`umbook_grupo6`).
+- **Then the web.** HTML and CSS practice, Angular tests, TypeScript apps, and full-stack exercises.
+
+|  | **BC — Before Claude** | **AC — After Claude** |
+| --- | --- | --- |
+| How I work | I write every line by hand. | I direct agents: specs, review, checks, ship. |
+| Core skill | Read a problem. Write correct code alone. | Break a problem into specs and checks. Judge the result. |
 
 ---
 
@@ -80,7 +79,7 @@ I built Python scripts to automate document uploads. I supported client onboardi
 
 ---
 
-## Now
+## Work with me
 
 I build agent systems and the tools that keep them honest. I am open to automation and backend roles, remote, based in Argentina.
 
