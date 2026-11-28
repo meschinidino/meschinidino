@@ -59,7 +59,7 @@ BC is Before Claude: the years I wrote every line by hand. That base is why the 
 I build features and fixes on the treasury internal system. Java and Spring Boot on the back end. Angular on the front end. MySQL for data.
 
 **Backend Developer — Hapi** *(Oct 2025 – Apr 2026)*
-I led the move of legacy microservices from JavaScript to Go. I built gRPC APIs on PostgreSQL and MongoDB. We deployed on AWS with Kubernetes.
+I moved legacy microservices from JavaScript to Go. I built gRPC APIs on PostgreSQL and MongoDB. We deployed on AWS with Kubernetes.
 
 **Customer Onboarding Operations Intern — Humand** *(Mar 2025 – Jul 2025)*
 I built Python scripts to automate document uploads. I supported client onboarding with scripts and technical help.
